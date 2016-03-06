@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Motivational quote: #1"
+title: "Motivational quote: Ralph Waldo Emerson"
 date: 2016-03-06 16:30:47 -0300
 categories: quote
 ---
