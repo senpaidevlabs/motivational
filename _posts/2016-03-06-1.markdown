@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ralph Waldo Emerson
+title: "Motivational quote: Ralph Waldo Emerson"
 date: 2016-03-06
 categories: action inspire leadership management
 ---
