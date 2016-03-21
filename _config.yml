@@ -3,7 +3,7 @@ email: motivational@senpaidev.com
 description: > # this means to ignore newlines until "baseurl:"
   Get daily motivational quotes. Download the app from the App Store today.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://motivational.senpaidev.com" # the base hostname & protocol for your site
+url: "https://motivational.senpaidev.com" # the base hostname & protocol for your site
 twitter_username: senpaidevlabs
 github_username:  senpaidevlabs
 
