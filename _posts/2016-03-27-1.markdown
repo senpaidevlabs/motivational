@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Donald Rumsfeld"
+date: 2016-03-27
+categories: inspire planning time-management
+---
+> Think ahead. Don't let day-to-day operations drive out planning.
+
+Donald Rumsfeld
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
