@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Larry Page"
+date: 2016-06-22
+categories: dream inspire
+---
+> You know what it’s like to wake up in the middle of the night with a vivid dream? And you know that if you don’t have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it’s important to wake up and stop dreaming. When a really great dream shows up, grab it.
+
+Larry Page
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
