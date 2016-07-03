@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Bill Gates"
+date: 2016-07-03
+categories: fail inspire poor winning
+---
+> If you are born poor, it is not your mistake. But if you die poor it is your mistake.
+
+Bill Gates
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
