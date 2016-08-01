@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Voltaire"
+date: 2016-08-01
+categories: game games inspire order tso-life
+---
+> Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.
+
+Voltaire
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
