@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Dale Carnegie"
+date: 2016-08-18
+categories: happiness inspire thought
+---
+> It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+
+Dale Carnegie
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
