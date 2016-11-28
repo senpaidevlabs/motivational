@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Douglas Adams"
+date: 2016-11-28
+categories: action eff inspire
+---
+> Let us think the unthinkable, let us do the undoable, let us prepare to grapple with the ineffable itself, and see if we may not eff it after all.
+
+Douglas Adams
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
