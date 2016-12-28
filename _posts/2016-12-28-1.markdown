@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Charles F. Kettering"
+date: 2016-12-28
+categories: inspire persistence
+---
+> Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
+
+Charles F. Kettering
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
