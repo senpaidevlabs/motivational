@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Henry Cloud"
+date: 2017-01-05
+categories: binary-think inspire life retrying
+---
+> Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.
+
+Henry Cloud
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
