@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Albert Einstein"
+date: 2017-05-07
+categories: imagination inspire t-shirt
+---
+> Logic will get you from A to B. Imagination will take you everywhere.
+
+Albert Einstein
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
