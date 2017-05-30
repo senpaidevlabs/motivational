@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Japanese Proverb"
+date: 2017-05-30
+categories: action inspire vision
+---
+> Vision without action is daydream. Action without vision is nightmare....
+
+Japanese Proverb
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
