@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: George Bernard Shaw"
+date: 2017-06-23
+categories: inspire
+---
+> Some men see things as they are and say why ... I dream things that never were and say why not.
+
+George Bernard Shaw
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
