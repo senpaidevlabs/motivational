@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Napoleon Bonaparte"
+date: 2017-07-28
+categories: ambition inspire passion
+---
+> Great ambition is the passion of a great character.  Those endowed with it may perform very good or very bad acts.  All depends on the principals which direct them.
+
+Napoleon Bonaparte
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
