@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Mark Bezos"
+date: 2017-12-10
+categories: inspire life
+---
+> Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
+
+Mark Bezos
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
