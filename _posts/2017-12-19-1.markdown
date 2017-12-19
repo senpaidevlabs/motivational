@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Mark Twain"
+date: 2017-12-19
+categories: age inspire
+---
+> Age is an issue of mind over matter. If you don’t mind, it doesn’t matter....
+
+Mark Twain
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
