@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Motivational quote: Bruce Lee"
+date: 2018-01-15
+categories: accumulate inspire simplicity
+---
+> One does not accumulate but eliminate .
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.
+
+Bruce Lee
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
