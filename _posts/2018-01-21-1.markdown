@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Motivational quote: Truman Capote"
+date: 2018-01-21
+categories: experience failure inspire metaphor success wisdom
+---
+> Failure is the condiment that gives success its flavor.
+
+Truman Capote
+
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
